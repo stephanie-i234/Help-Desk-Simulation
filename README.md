@@ -35,16 +35,17 @@ The goal of this lab is to simulate real-world help desk ticket workflows includ
 | HD-002    | Account Unlock Request        | Complete |
 | HD-003    | New Employee Account Creation | Complete |
 | HD-004    | Employee Offboarding Request  | Complete |
-| HD-005    | Security Group Access Request | Pending  |
-| HD-006    | Domain Join Request           | Pending  |
+| HD-005    | Security Group Access Request | Complete |
+| HD-006    | Domain Join Request           | Complete |
 
 ## Repository Structure
+
+The attached project to this repository contains simulated IT help desk tickets and supporting documentation, summarizing what was done in the ticket.
+Additionally video demonstrations of the helpdesk tickets being resolved are available to view in the main branch of the repository. 
 
 ```text
 Help Desk Simulation Lab/
 ├── HD-001 Password Reset/
-│   ├── Screenshots/
-│   ├── Documentation/
 │   └── Video Demonstration/
 ├── HD-002 Account Unlock/
 ├── HD-003 New Employee Account Creation/

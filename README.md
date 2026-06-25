@@ -35,7 +35,7 @@ The goal of this lab is to simulate real-world help desk ticket workflows includ
 | HD-002    | Account Unlock Request        | Complete |
 | HD-003    | New Employee Account Creation | Complete |
 | HD-004    | Employee Offboarding Request  | Complete |
-| HD-005    | Security Group Access Request | Complete |
+| HD-005    | Network Connectivity Troubleshooting | Complete |
 | HD-006    | Domain Join Request           | Complete |
 
 ## Repository Structure
@@ -50,7 +50,7 @@ Additionally video demonstrations of the helpdesk tickets being resolved are ava
 - HD-002 Account Unlock
 - HD-003 New Employee Account Creation
 - HD-004 Employee Offboarding
-- HD-005 Security Group Access
+- HD-005 Network Connectivity Troubleshooting
 - HD-006 Domain Join
 
 Video files are available in the **Video Demonstrations** folder.

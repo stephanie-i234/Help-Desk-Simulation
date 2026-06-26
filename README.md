@@ -55,7 +55,7 @@ Additionally video demonstrations of the helpdesk tickets being resolved are ava
 - HD-005 Network Connectivity Troubleshooting
 - HD-006 Domain Join
 
-Video files are available in the **Video Demonstrations** folder.
+Video files are available in the **video cover** file.
 
 
 ## Learning Objectives
